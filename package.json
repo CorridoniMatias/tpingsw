@@ -1,0 +1,22 @@
+{
+  "name": "tpingsw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorridoniMatias/tpingsw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorridoniMatias/tpingsw/issues"
+  },
+  "homepage": "https://github.com/CorridoniMatias/tpingsw#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
