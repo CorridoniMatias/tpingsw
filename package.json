@@ -1,11 +1,10 @@
 {
-  "name": "TPINGSW",
+  "name": "tpingsw",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "jest --coverage",
-    "ci": "jest --coverage"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
